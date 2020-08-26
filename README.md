@@ -30,11 +30,11 @@ This project is a template for newsletter signup page which adds users to my new
 
 
 ## Deployment:
-This project is deployed on github pages.
+This project is deployed on [Heroku](www.heroku.com) .
 
 
 ## Inspiration:
-The inspiration for the website have been taken from the follwing:
+The inspiration for the website have been taken from the following:
 * [Angela Yu](https://github.com/angelabauer)'s Complete Web Development Bootcamp Course on Udemy.
 
 
