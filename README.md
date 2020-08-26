@@ -30,7 +30,7 @@ This project is a template for newsletter signup page which adds users to my new
 
 
 ## Deployment:
-This project is deployed on [Heroku](www.heroku.com) .
+This project is deployed on [Heroku](https://www.heroku.com/) .
 
 
 ## Inspiration:
